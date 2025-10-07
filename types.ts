@@ -1,5 +1,5 @@
 
-export type Page = 'Dashboard >' | 'Settings' | 'Media' | 'Users' | 'Analytics';
+export type Page = 'Dashboard ( Anees )' | 'Settings' | 'Media' | 'Users' | 'Analytics';
 
 export interface NavItemType {
   id: Page;
