@@ -1,0 +1,5 @@
+{
+  "name": "Admin Panel UI",
+  "description": "A modern, responsive admin panel interface inspired by the WordPress and Redux Framework look and feel, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
